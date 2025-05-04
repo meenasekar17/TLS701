@@ -10,6 +10,7 @@ public class Intro
 	
 	public int sub(int x,int y)
 	{
+		//return sub of two number
 		return x-y;
 		
 	}
